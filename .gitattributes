@@ -1,0 +1,6 @@
+*.ipynb linguist-documentation
+*.h5 linguist-documentation
+*.json linguist-documentation
+*.txt linguist-documentation
+
+*.ipynb filter=jupyter_clear_output
